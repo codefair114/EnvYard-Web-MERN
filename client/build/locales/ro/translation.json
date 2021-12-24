@@ -1,0 +1,45 @@
+{
+    "Name": {
+        "1": "Nume"
+    },
+    "Email": {
+        "1": "Email"
+    },
+    "Latest Products": {
+        "1": "Noile masini"
+    },
+    "Shop": {
+        "1": "Magazin"
+    },
+    "Cart": {
+        "1": "Cos"
+    },
+    "Reviews": {
+        "1": "Pareri"
+    },
+    "Make_Review": {
+        "1": "Da-ne pareri"
+    },
+    "Ask_Question": {
+        "1": "Intreaba"
+    },
+    "User": {
+        "1": "Utilizatori"
+    },
+    "Create_User": {
+        "1": "Adauga utilizator"
+    },
+    "Ratin": {
+        "1": "Note"
+    },
+    "Orde": {
+        "1": "Comenzi"
+    },
+    "Flowy": {
+        "1": "Flux"
+    },
+    "Viewy": {
+        "1": "Detalii"
+    }
+    
+}

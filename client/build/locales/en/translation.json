@@ -1,0 +1,45 @@
+{
+    "Name": {
+        "1": "Name"
+    },
+    "Email": {
+        "1": "Email"
+    },
+    "Latest Products": {
+        "1": "The New Tesla"
+    },
+    "Shop": {
+        "1": "Showroom"
+    },
+    "Cart": {
+        "1": "Shopping Cart"
+    },
+    "Reviews": {
+        "1": "Feedback"
+    },
+    "Make_Review": {
+        "1": "Make Review"
+    },
+    "Ask_Question": {
+        "1": "Ask Question"
+    },
+    "User": {
+        "1": "Users"
+    },
+    "Create_User": {
+        "1": "Create User"
+    },
+    "Ratin": {
+        "1": "Rating"
+    },
+    "Orde": {
+        "1": "Orders"
+    },
+    "Flowy": {
+        "1": "Flow"
+    },
+    "Viewy": {
+        "1": "View"
+    }
+
+}
